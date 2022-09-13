@@ -7,7 +7,8 @@ The subject of this data analysis is a Hawaiian Tour Company in Maui, Hawaii. Th
 
 ## Type of Tickets Sold & Revenue Sources
 
-![image](https://user-images.githubusercontent.com/112305152/190028867-58e7aa62-5392-44f5-b0f4-0ed8a6bdfe85.png)
+![Age Groups](https://user-images.githubusercontent.com/112305152/190028947-7023e9da-c086-4aff-a91b-6434b09a758b.png)
+
 
 
 Both of the charts show the distribution of grades over all 5 classes. In "Number of Final Grades", it can be observed that the majority of students scored a B- or higher with the final score of B containing the most amount of students. In "Histogram of Final Grades with Kernel Density Estimation", a histogram shows the distribution of grades over the numerical score between 0-100%. The histogram also includes the Kernal Density Estimate(KDE) which peaks between a score of 80-90%. In this case, the KDE tells where the majority of students held their final grades. An interesting inflection point in the KDE lies right before the passing grade cutoff between 65-69%.
