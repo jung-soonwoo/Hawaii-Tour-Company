@@ -3,21 +3,71 @@ Data Analysis on a Hawaiian Tour Company using Python, SQL, Pandas, and Geopanda
 
 ## Background
 
-The subject of this data analysis is a Hawaiian Tour Company in Maui, Hawaii. The data for this project was acquired through a family member who runs and operates the company. Due to the use of sensitive information, the csv files containing the data for this project have not been included. The company operates by managing and directing employees who operate as tour guides for an iconic tour called Road to Hana. This tour takes customers around the isolated eastern side of Maui, Hawaii, where they venture into the lives of native Hawaiians. The other revenue sources for this company consists of reselling tours for other islands/companies.
+The subject of this data analysis is a Hawaiian Tour Company in Maui, Hawaii. For the sake of anonymity, the company will be referred to as Hawaiian Tour Company for this data analysis. The data for this project was acquired through a family member who runs and operates the company. Due to the use of sensitive information, the csv files containing the data for this project have not been included. The company operates by managing and directing employees who operate as tour guides for an iconic tour called Road to Hana. This tour takes customers around the isolated eastern side of Maui, Hawaii, where they venture into the lives of native Hawaiians. The other revenue sources for this company consists of reselling tours for other islands/companies and private tours around the island.
 
-## Type of Tickets Sold & Revenue Sources
+## Questions Ventured
+
+- Which age group is the largest customer in terms of revenue?
+- Which revenue source is the largest?
+- What day of the week, month of the year, and season of the year is the most popular/generate the most revenue?
+- Where are most of the customers located?
+- How has COVID-19 affected the tour company in terms of revenue?
+
+## Age Groups & Revenue Sources
 
 ![Age Groups](https://user-images.githubusercontent.com/112305152/190061389-4150b52e-a54b-4980-8ec1-c7e51c43eef7.png)
+
+In regards to the largest revenue source, Road to Hana, the customer basis consisted of 88.68% adults, 3.90% children, and 7.42% senior/military. The age range for the adult group consisted between ages 20-64.
+
 ![Revenue Sources](https://user-images.githubusercontent.com/112305152/190061398-e1fe9530-2f41-41e8-8a90-4a97fbc17b63.png)
 
+The largest revenue source was Road to Hana which consisted of 84.02% of the whole revenue. The Oahu Tour and Volcano Adventure Tour are both reseller revenue sources, where the Hawaiian Tour Company acts as a reseller for these tours.
+
+These two conclusions supplement a greater analysis further below.
+
+## Revenue by Weekday, Month, Season
+
+In this section, I wanted to examine which day of the week, month of the year, and season of the year generated the most revenue. This would provide the management of the Hawaiian Tour Company the ability to understand which days they can expect the most amount of customers. By doing so, the Hawaiian Tour Company can allocated more resources during the specific days, months, seasons. The Hawaiian Tour Company can hire more employees in anticipation for busy seasons or months. They can also plan when to purchase long term investments such new tour trucks as high demand can raise the price of these specialized vehicles.
+
+![Revenue by Weekday](https://user-images.githubusercontent.com/112305152/190063502-ee719fee-a293-42bc-b109-855b27a4be94.png)
+
+In this chart, Mondays were found to be the busiest day of the week, followed by Wednesdays and Tuesdays. This can mean that customers prefer to book tours early in the week rather than the expected prediction of Saturdays and Sundays. 
+
+
+![Revenue by Month](https://user-images.githubusercontent.com/112305152/190064948-1266d2df-03ed-4cd2-b654-304226887e4b.png)
 
 
 
-Both of the charts show the distribution of grades over all 5 classes. In "Number of Final Grades", it can be observed that the majority of students scored a B- or higher with the final score of B containing the most amount of students. In "Histogram of Final Grades with Kernel Density Estimation", a histogram shows the distribution of grades over the numerical score between 0-100%. The histogram also includes the Kernal Density Estimate(KDE) which peaks between a score of 80-90%. In this case, the KDE tells where the majority of students held their final grades. An interesting inflection point in the KDE lies right before the passing grade cutoff between 65-69%.
 
-## Grades VS. Time
+## Revenue by Weekday, Month, Season
 
-![Grade VS  Time](https://user-images.githubusercontent.com/112305152/187067375-cedf2264-82ca-4f4b-8cd3-34384afc5c7f.png)
+![Revenue by Weekday](https://user-images.githubusercontent.com/112305152/190063502-ee719fee-a293-42bc-b109-855b27a4be94.png)
+
+
+
+In this box plot it can be concluded that over time, the final grades of students improved every semester. This can be due to a couple of factors:
+- Teacher's curriculum and quality improved over time.
+- The syllabus of the course changed more favorably for students over time.
+- Prerequisite classes better prepared students for sequential courses.
+
+
+## Revenue by Weekday, Month, Season
+
+![Revenue by Weekday](https://user-images.githubusercontent.com/112305152/190063502-ee719fee-a293-42bc-b109-855b27a4be94.png)
+
+
+
+In this box plot it can be concluded that over time, the final grades of students improved every semester. This can be due to a couple of factors:
+- Teacher's curriculum and quality improved over time.
+- The syllabus of the course changed more favorably for students over time.
+- Prerequisite classes better prepared students for sequential courses.
+
+
+## Revenue by Weekday, Month, Season
+
+![Revenue by Weekday](https://user-images.githubusercontent.com/112305152/190063502-ee719fee-a293-42bc-b109-855b27a4be94.png)
+
+
 
 In this box plot it can be concluded that over time, the final grades of students improved every semester. This can be due to a couple of factors:
 - Teacher's curriculum and quality improved over time.
