@@ -7,8 +7,10 @@ The subject of this data analysis is a Hawaiian Tour Company in Maui, Hawaii. Th
 
 ## Type of Tickets Sold & Revenue Sources
 
-![Age Groups](https://user-images.githubusercontent.com/112305152/190028947-7023e9da-c086-4aff-a91b-6434b09a758b.png)
-![Revenue Sources](https://user-images.githubusercontent.com/112305152/190038590-c5623738-2f5b-443f-9761-dd2187b5bed6.png)
+![Age Groups](https://user-images.githubusercontent.com/112305152/190061131-737e5247-3dbd-4243-921d-340504d8ba40.png)
+![Revenue Sources](https://user-images.githubusercontent.com/112305152/190061143-ae4acf85-420e-414e-8f40-753692efea5d.png)
+
+
 
 
 
