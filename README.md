@@ -46,28 +46,20 @@ To summarize, Mondays followed by Wednesday and then Tuesdays during the month o
 
 ![Locations](https://user-images.githubusercontent.com/112305152/190066442-77ec059c-caed-4681-a94a-b1d45824fc5f.png)
 
+In this section, I found the locations of the largest groups of customers throughout the US. Since the location of the customers were not provided in the database, I used the phone numbers of each customer from the last year in order to approximate their location. The area codes of all customers were first narrowed down and then linked to a database which connected area codes with cities and states. The search was then narrowed down into cities which contained a higher than average number of customers. From here, the search was further limited into the conclusions found before, adults ranging from ages 20-64, and customers who purchased the largest revenue source, Road to Hana. Finally, the search was narrowed to a density of adults per population over 60% and sorted by the largest number of customers. 
+
+The top 10 cities are listed below. This data analysis provides the most beneficial marketing opportunity for the Hawaiian Tour Company. Since the Hawaiian Tour Company have yet to market themselves into other locations, this analysis can serve as a stepping stone. Furthermore, the Hawaiian Tour Company can use this data analysis to find the cities with the least amount of customers and a high density of adults. 
+
+Two things that can make this data unreliable is the use of area codes matching to locations. (1) Customers can move away from the location where they created a phone number. (2) Area codes could match up to more than one city.
+
+![Top 10 Cities](https://user-images.githubusercontent.com/112305152/190066778-62d0a453-f0e9-4de4-935b-d2777c006ef2.png)
 
 
+## Revenue by Year (Pre-Covid VS. Post-Covid)
 
-## Revenue by Weekday, Month, Season
+![Revenue by Year](https://user-images.githubusercontent.com/112305152/190071342-bf275f35-93c0-42fa-a4ac-834692231245.png)
 
-![Revenue by Weekday](https://user-images.githubusercontent.com/112305152/190063502-ee719fee-a293-42bc-b109-855b27a4be94.png)
+In this last section, it can be observed that COVID-19 took a significant hit on the revenue for the Hawaiian Tour Company. This is due to the shutdown of air travel, hiring of employees, and overall slowdown of the economy. The revenue hit is noticable during the year of 2019-2020 when COVID-19 first hit. Alongside this data, a comparsion of COVID-19 cases in the US can show the relation between revenue and COVID-19. The vaccination trend can also imply that an increase in the number of vaccinations correlated to an increase in revenue for the Hawaiian Tour Company as customers became more comfortable with traveling overseas.
 
-
-
-In this box plot it can be concluded that over time, the final grades of students improved every semester. This can be due to a couple of factors:
-- Teacher's curriculum and quality improved over time.
-- The syllabus of the course changed more favorably for students over time.
-- Prerequisite classes better prepared students for sequential courses.
-
-
-## Revenue by Weekday, Month, Season
-
-![Revenue by Weekday](https://user-images.githubusercontent.com/112305152/190063502-ee719fee-a293-42bc-b109-855b27a4be94.png)
-
-
-
-In this box plot it can be concluded that over time, the final grades of students improved every semester. This can be due to a couple of factors:
-- Teacher's curriculum and quality improved over time.
-- The syllabus of the course changed more favorably for students over time.
-- Prerequisite classes better prepared students for sequential courses.
+![us-state-trends](https://user-images.githubusercontent.com/112305152/190073021-c7100697-f816-4e02-8cba-2d168d3ffa36.png)
+![vaccination-trends](https://user-images.githubusercontent.com/112305152/190073027-dfb2dde3-a9a6-44ce-a0be-8169b329dcdf.png)
